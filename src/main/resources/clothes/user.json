@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "user_id": 1,
+      "name": "한성수",
+      "birth": "940731-1",
+      "email": "swhanss@naver.com",
+      "nickname": "서엉수",
+      "password": "1234",
+      "phone": "01033752890",
+      "username": "swhanss"
+    },
+    {
+      "user_id": 2,
+      "name": "김승현",
+      "birth": "940214-1",
+      "email": "hyun@naver.com",
+      "nickname": "승혀니",
+      "password": "4212",
+      "phone": "01011111111",
+      "username": "hyunss"
+    },
+    {
+      "user_id": 3,
+      "name": "유재혁",
+      "birth": "970519-1",
+      "email": "youu@naver.com",
+      "nickname": "재혀기",
+      "password": "4222",
+      "phone": "01022222222",
+      "username": "youuu"
+    },
+    {
+      "user_id": 4,
+      "name": "김윤섭",
+      "birth": "980114-1",
+      "email": "supp@naver.com",
+      "nickname": "윤서비",
+      "password": "1233",
+      "phone": "01016666666",
+      "username": "supp2"
+    }
+  ]
+}
